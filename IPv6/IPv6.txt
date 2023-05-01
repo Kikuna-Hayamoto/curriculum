@@ -1,0 +1,29 @@
+問１ 
+Macアドレス：AAAA.AAAA.AAAA.AAAA
+
+AA AA AA FF FE AA AA AA
+AA(16進数）→170（１０進数）→10101010(2進数）
+→10101000(7ビット目反転）
+→A8（16進数）
+
+インターフェイスID：A8 AA AA FF FE AA AA AA
+
+問２
+Macアドレス：9876.5432.10FE
+
+98 76 54 FF FE 32 10 FE
+98(16進数）→152（１０進数）→10011000(2進数）
+10011010(7ビット目反転）
+→９A(16進数）
+
+インターフェイスID：9A 76 54 FF FE 32 10 FE
+
+問３
+Macアドレス：FFFF.FFFF.FFFF
+
+FF FF FF FF FE FF FF FF
+FF(16進数）→255(10進数）→11111111(2進数）
+→11111101(7ビット目反転）
+→FD(16進数）
+
+インターフェイスID：FD FF FF FF FE FF FF FF
